@@ -1,5 +1,5 @@
 # Crypto-Bot-Balance-Checker
-Чекер баланса Crypto Bot
+ -  Чекер баланса Crypto Bot
 ![Alt text](https://github.com/nop-74/Crypto-Bot-Balance-Checker/blob/main/checker_1.png)
 
  -  # Инструкция
